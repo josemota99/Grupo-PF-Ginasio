@@ -9,7 +9,7 @@ Este repositório está na **Fase 1 — Modelação e núcleo funcional**.
 |----|------|
 | al2025157657 | José Mota |
 | al2025166979 | Simão Dias |
-| al2025169084 | Rui Monteiro
+| al2025169084 | Rui Monteiro |
 
 ## Descrição do projeto
 
