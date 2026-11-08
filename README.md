@@ -74,8 +74,6 @@ ginasio/
 │   └── Main.hs         -- demonstração (único módulo com IO)
 ├── test/
 │   └── Spec.hs         -- testes das funções puras e casos limite
-└── docs/
-    └── CHECKLIST_FASE1.md
 ```
 
 ## Modelo de domínio
